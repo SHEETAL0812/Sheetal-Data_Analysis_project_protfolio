@@ -1,5 +1,4 @@
-# Sheetal_Data-Analysis-project_protfolio
-Analytics Projects Portfolio
+# Analytics Projects Portfolio
 
 # [Project-1: TATA Company Project- Online Retail Store Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/TATA--Virtual-Practical-Training--Data-Visualisation-Empowering-Business-with-Effective-Insights.git)
 
