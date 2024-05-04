@@ -64,6 +64,24 @@ This Pwc Switzerland Power BI Project is based on the Employee dataset, which sh
 
 ![Part-1- HR Dashboard-D I](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/eeae22e8-9963-442e-932a-fee35ef277dd)
 
+# [Project-7: Codis Limited (London) Company- Sales Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/Project-7-codis-Limited-PowerBI-.git)
+
+Codis Limited (London) Company- Sales Analysis Microsoft Power BI Project-
+
+* Design Power BI dashboard based on this sales data provided by company
+* Dataset contains three different CSV and Excel files- Products, Sales and Stores
+* Data Cleaning Process
+* Extract, Transform and Load (ETL) Process
+* Sync with the provided Excel file so that if any changes made in the sourced Excel file it should automatically reflect in PowerBI Dashboard
+* Created Row Level Security- two roles viewing the dashboard- Finance Manager should be able to view all sales data and Store Manager should only be able to view the sales data for their store
+* Applying DAX Functions such as measures, Calculated columns
+* Transform data by using Power Query Function
+* Build Entity Relationship(ER) Diagram by joining Primary Key with Foreign Key
+* Design Slicer for filteration
+
+![Codis PowerBI Project Screenshot](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/5f86cec0-4848-4e18-bf5f-bc7204df4085)
+
+
 # [Project-6: Stanford University-Code in Place 2024- Karel Python Programming Project](https://github.com/SHEETAL0812/Project-6-codeinplace2024karel.git)
 
 Checkerboard Karel (Python Programming)- Code In Place 2024 Stanford University
