@@ -112,7 +112,7 @@ Code First Girls (UK Based) Organization- SQL Project-
 
 ![project_er_diagram](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/a88e6c45-0328-440b-8c23-671caec8dc92)
 
-# [Prpject-9: Harvard University-CS50 SQL Projects](https://github.com/code50/128026212.git)
+# [Project-9: Harvard University-CS50 SQL Projects](https://github.com/code50/128026212.git)
 
 CS50 SQL Program Harvard University SQL Projects-
 
