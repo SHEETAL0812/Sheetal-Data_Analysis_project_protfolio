@@ -112,6 +112,21 @@ Code First Girls (UK Based) Organization- SQL Project-
 
 ![project_er_diagram](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/a88e6c45-0328-440b-8c23-671caec8dc92)
 
+# [Prpject-9: Harvard University-CS50 SQL Projects](https://github.com/code50/128026212.git)
+
+CS50 SQL Program Harvard University SQL Projects-
+
+* Cyberchase SQL Project
+* DESE SQL Project
+* MoneyBall SQL Project
+* Packages SQL Project
+* Players SQL Project
+* Views SQL Project
+* SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, JOINS, SUBQUERIES, ER DIAGRAM, PRIMARY KEY, FOREIGN KEY Functions used in SQL projects to Query databases
+
+![CS50SQL](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/9018e49f-fbab-49fd-aa53-eb1184fb701e)
+
+
 
 
 
