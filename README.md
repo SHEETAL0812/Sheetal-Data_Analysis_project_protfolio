@@ -64,7 +64,7 @@ This Pwc Switzerland Power BI Project is based on the Employee dataset, which sh
 
 ![Part-1- HR Dashboard-D I](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/eeae22e8-9963-442e-932a-fee35ef277dd)
 
-# [Project-7: Codis Limited (London) Company- Sales Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/Project-7-codis-Limited-PowerBI-.git)
+# [Project-6: Codis Limited (London-based) Company- Sales Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/Project-7-codis-Limited-PowerBI-.git)
 
 Codis Limited (London) Company- Sales Analysis Microsoft Power BI Project-
 
@@ -82,7 +82,7 @@ Codis Limited (London) Company- Sales Analysis Microsoft Power BI Project-
 ![Codis PowerBI Project Screenshot](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/5f86cec0-4848-4e18-bf5f-bc7204df4085)
 
 
-# [Project-6: Stanford University-Code in Place 2024- Karel Python Programming Project](https://github.com/SHEETAL0812/Project-6-codeinplace2024karel.git)
+# [Project-7: Stanford University-Code in Place 2024- Karel Python Programming Project](https://github.com/SHEETAL0812/Project-6-codeinplace2024karel.git)
 
 Checkerboard Karel (Python Programming)- Code In Place 2024 Stanford University
 
