@@ -97,7 +97,20 @@ This Karel (Python Programming) Project provided by the popular coding program o
 ![code in place 2024 checkerboard image](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/efaa5de1-0123-459a-b22d-6c6df9f8b025)
 
 
+# [Project-8: Code-First-Girls (UK Based) Organization-SQL Project](https://github.com/SHEETAL0812/Project-8--Code-First-Girls-SQL.git)
 
+Code First Girls (UK Based) Organization- SQL Project-
+
+* Created Relational Database (6 Tables)
+* Set Primary Key and Foriegn Key Constraints to create relations between the Tables
+* Create JOIN which combines multiple tables in a logical way
+* Created a stored function
+* Preparaed Query with a subquery to extract data from Database for analysis
+* Create an ER Diagram where all table relations are shown
+* Created a stored procedure
+* Used Group BY, Having, Order BY, JOIN functions to query database
+
+![project_er_diagram](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/a88e6c45-0328-440b-8c23-671caec8dc92)
 
 
 
