@@ -12,7 +12,7 @@ This is a TATA Data Visua;ization Project, where I build Interactive dashboard, 
 * Apply supported charts to represent data in a logical manner![Tata Data Visualization Report](https://github.com/SHEETAL0812/sheetal_project_protfolio/assets/128026212/8f3c65ba-1063-4d67-bc36-baa0e2b8ae98)
 
 
-# [Project-2: Pwc Company- Call Centre Trend Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/pwc_dataviz_project.git)
+# [Project-2: PwC Company- Call Centre Trend Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/pwc_dataviz_project.git)
 
 This Pwc Switzerland Power BI Project is based on the Call Centre dataset, which shows insights into the Call Centre Trend Analysis. The project has the following Questions for the analysis -
 
@@ -24,5 +24,65 @@ This Pwc Switzerland Power BI Project is based on the Call Centre dataset, which
 * Agent performance metrics based on the number of calls answered and the speed of answering the calls
 
 ![Task Screenshort](https://github.com/SHEETAL0812/sheetal_project_protfolio/assets/128026212/41009206-526e-4bcd-8d69-91b0e7d6c551)
+
+# [Project-3: PwC Company- Customer Retention Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/project-3-Customer-Retention-Analysis.git)
+
+This Pwc Switzerland Power BI Project is based on the Customer Churn dataset, which shows insights into Customer Retention Analysis. The project has the following Questions for the analysis -
+
+* Demand for Product Contract
+* Total number of Customers
+* Customers Churn Rate
+* Churned Customer's Average Life Cycle
+* Churn Customer Rate of Last Month
+
+![Customer Retention Analysis Dashboard Screenshort](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/17810416-3867-47e6-bc02-60307e50c957)
+
+# [Project-4: KPMG Company-PowerBI Customer Trend Analysis & Customer Buying Behaviour Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/Project-4-KPMG-PowerBI.git)
+
+This KPMG-AU Project is based on Customer Trend Analysis & Customer Buying Behaviour Analysis. The project has the following Questions for the analysis -
+
+* Total number of Customers
+* Customers Demographic Analysis
+* Product Transactions Analysis
+* Customers Buying Behaviour Analysis
+
+![Part-1- Dashboard](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/d937813f-cc90-418f-a309-b77e0d7aa85b)
+
+# [Project-5: PwC Company-HR Dashboard-Diversity-Microsoft Power BI Inclusion-Project](https://github.com/SHEETAL0812/Project-5-Pwc-Diversity-Inclusion-Project.git)
+
+This Pwc Switzerland Power BI Project is based on the Employee dataset, which shows insights into Employee-Diversity & Inclusion Analysis. The project has the following Questions for the analysis -
+
+* Total No. of Employees Resigned
+* Total number of Employees
+* Employees' Gender Analysis
+* Employees' Age Group Analysis
+* No. of Employees in each department
+* Total No. of Employees left the organization in FY20
+* Total No. of Employees Hire in FY20
+* Employees' Nationality Analysis
+* Comparative Analysis of Employees promotion in FY20 & FY21
+
+![Part-1- HR Dashboard-D I](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/eeae22e8-9963-442e-932a-fee35ef277dd)
+
+# [Project-6: Stanford University-Code in Place 2024- Karel Python Programming Project](https://github.com/SHEETAL0812/Project-6-codeinplace2024karel.git)
+
+Checkerboard Karel (Python Programming)- Code In Place 2024 Stanford University
+
+This Karel (Python Programming) Project provided by the popular coding program of Code in Place 2024 Stanford University-
+
+* This python programming code works for karel different world
+* Use For Loop
+* Use While Loop
+* Use define helper Function
+* Use If/else condition
+
+![code in place 2024 checkerboard image](https://github.com/SHEETAL0812/Sheetal-Data_Analysis_project_protfolio/assets/128026212/efaa5de1-0123-459a-b22d-6c6df9f8b025)
+
+
+
+
+
+
+
 
 
