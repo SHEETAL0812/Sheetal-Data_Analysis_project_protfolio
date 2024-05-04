@@ -13,7 +13,7 @@ This is a TATA Data Visua;ization Project, where I build Interactive dashboard, 
 * Apply supported charts to represent data in a logical manner![Tata Data Visualization Report](https://github.com/SHEETAL0812/sheetal_project_protfolio/assets/128026212/8f3c65ba-1063-4d67-bc36-baa0e2b8ae98)
 
 
-# [Project-2: Pwc Company- Call Centre Trend Analysis Microsoft Power BI Project]
+# [Project-2: Pwc Company- Call Centre Trend Analysis Microsoft Power BI Project](https://github.com/SHEETAL0812/pwc_dataviz_project.git)
 
 This Pwc Switzerland Power BI Project is based on the Call Centre dataset, which shows insights into the Call Centre Trend Analysis. The project has the following Questions for the analysis -
 
